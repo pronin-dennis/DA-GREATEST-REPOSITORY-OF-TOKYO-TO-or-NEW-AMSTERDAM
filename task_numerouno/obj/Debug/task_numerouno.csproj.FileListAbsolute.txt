@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\task_numerouno\task_numerouno\bin\Debug\task_numerouno.exe.config
+C:\Users\User\source\repos\task_numerouno\task_numerouno\bin\Debug\task_numerouno.exe
+C:\Users\User\source\repos\task_numerouno\task_numerouno\bin\Debug\task_numerouno.pdb
+C:\Users\User\source\repos\task_numerouno\task_numerouno\obj\Debug\task_numerouno.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\task_numerouno\task_numerouno\obj\Debug\task_numerouno.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\task_numerouno\task_numerouno\obj\Debug\task_numerouno.exe
+C:\Users\User\source\repos\task_numerouno\task_numerouno\obj\Debug\task_numerouno.pdb
