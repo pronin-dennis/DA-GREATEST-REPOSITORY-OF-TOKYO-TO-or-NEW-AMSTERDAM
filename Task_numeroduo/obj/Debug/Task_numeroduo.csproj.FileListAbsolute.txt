@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Task_numeroduo\Task_numeroduo\bin\Debug\Task_numeroduo.exe.config
+C:\Users\User\source\repos\Task_numeroduo\Task_numeroduo\bin\Debug\Task_numeroduo.exe
+C:\Users\User\source\repos\Task_numeroduo\Task_numeroduo\bin\Debug\Task_numeroduo.pdb
+C:\Users\User\source\repos\Task_numeroduo\Task_numeroduo\obj\Debug\Task_numeroduo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task_numeroduo\Task_numeroduo\obj\Debug\Task_numeroduo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task_numeroduo\Task_numeroduo\obj\Debug\Task_numeroduo.exe
+C:\Users\User\source\repos\Task_numeroduo\Task_numeroduo\obj\Debug\Task_numeroduo.pdb
