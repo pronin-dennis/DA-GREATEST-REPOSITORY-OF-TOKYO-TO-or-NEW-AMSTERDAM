@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Task_numerotres\Task_numerotres\bin\Debug\Task_numerotres.exe.config
+C:\Users\User\source\repos\Task_numerotres\Task_numerotres\bin\Debug\Task_numerotres.exe
+C:\Users\User\source\repos\Task_numerotres\Task_numerotres\bin\Debug\Task_numerotres.pdb
+C:\Users\User\source\repos\Task_numerotres\Task_numerotres\obj\Debug\Task_numerotres.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task_numerotres\Task_numerotres\obj\Debug\Task_numerotres.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task_numerotres\Task_numerotres\obj\Debug\Task_numerotres.exe
+C:\Users\User\source\repos\Task_numerotres\Task_numerotres\obj\Debug\Task_numerotres.pdb
